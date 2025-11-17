@@ -11,8 +11,6 @@ I’m currently working remotely as a **Software Engineer** at a **New York–ba
 
 If you’d like to reach out, you can contact me via email: **sgmehdi110@gmail.com**
 
----
-
 ### **Tools I Use**
 - MERN Stack  
 - Next.js, TypeScript, React Ecosystem  
